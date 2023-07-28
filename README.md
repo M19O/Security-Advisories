@@ -1,3 +1,5 @@
 # Security-Advisories
 
-I created this repo to share all my achived 0days and their PoCs if applicable. If you needed any help understanding those vulnerabilities or you faced a vulnerable product and can't reproduce them, Feel free to reach me. 
+``` 
+I created this repo to share all my achieved 0days and their POCs, if applicable. If you need any help understanding those vulnerabilities or have faced a vulnerable product and can't reproduce them, feel free to reach out to me.
+```
